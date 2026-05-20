@@ -1,10 +1,7 @@
 ---
-# Replace the fields below with relevant information.
-# See https://www.mkdocs.org/user-guide/configuration/
-# to learn more about the configuration options.
-site_name: Ansible project template # FIX ME
-site_url: https://ansible.readthedocs.io/PROJECTNAME # FIX ME
-repo_url: https://github.com/ansible-community/project-template # FIX ME
+site_name: Red Hat Partner Collection Certification
+site_url: https://docs.ansible.com/projects/partner-certification/
+repo_url: https://github.com/ansible/partner-certification
 edit_uri: blob/main/docs/
 docs_dir: docs
 strict: true
@@ -13,4 +10,12 @@ theme:
   name: 'ansible'
 
 nav:
-  - Home: 'index.md'
+  - Home: index.md
+  - Versioning: versioning.md
+  - Ansible core compatibility: ansible-core-compatibility.md
+  - Licensing: licensing.md
+  - README: readmes.md
+  - Changelogs: changelogs.md
+  - Dependencies: dependencies.md
+  - Sanity testing: sanity-testing.md
+  - Static analysis: static-analysis.md
