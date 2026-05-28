@@ -32,9 +32,7 @@ plugins:
           - dependencies.md
           - sanity-testing.md
           - static-analysis.md
-        Certification tooling:
-          - tooling.md
-        Templates:
+        Certified collection README template:
           - readme-template.md
         Review output:
           - review_summary.md
