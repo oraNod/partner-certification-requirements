@@ -1,5 +1,8 @@
 # LLMs
-.claude/
+.claude/*
+!.claude/settings.json
+!.claude/skills/
+.claude/settings.local.json
 
 # Editors
 .vscode/
