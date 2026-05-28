@@ -1,6 +1,6 @@
 ---
 name: certification-review
-description: Review an Ansible collection against Red Hat partner certification requirements. Use when user wants to check certification readiness, review for certification, or mentions "certification review".
+description: Review an Ansible collection against Red Hat partner certification requirements. Use when user wants to check certification readiness, review for certification, prepare for Automation Hub submission, or asks if a collection is ready to submit. Also triggers on "certification review", "pre-certification check", or "ready for Automation Hub".
 ---
 
 Fetch the certification requirements from https://partner-certification-requirements.readthedocs.io/llms-full.txt and use them as your checklist.
