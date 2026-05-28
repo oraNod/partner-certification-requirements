@@ -113,5 +113,6 @@ help available on the Ansible Forum (https://forum.ansible.com/).
 
 ## License information
 
-- Link to the license under which the collection is published.
+- The collection must use an [OSI-approved license](https://opensource.org/licenses/).
+- Make the license visible through the `license` field in `galaxy.yml`, the license type stated in the README, or a link to the license file in the README.
 - For private repositories, state the license in the README and note that the full license text is included in the downloaded collection.
