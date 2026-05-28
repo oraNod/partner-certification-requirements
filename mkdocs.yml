@@ -7,7 +7,7 @@ docs_dir: docs
 strict: true
 validation:
   nav:
-    not_in_nav: INFO
+    omitted_files: info
 not_in_nav: |
   readme-template.md
 
